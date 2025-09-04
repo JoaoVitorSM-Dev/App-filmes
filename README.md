@@ -1,4 +1,4 @@
-# CineSearch - Aplicação de Busca de Filmes
+# Aplicação de Busca de Filmes - Projeto Consumo de API com ReactJS (+Prati)
 
 ## Sobre o Projeto
 
